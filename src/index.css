@@ -1,0 +1,9 @@
+body{
+  margin: 0 auto;
+  padding: 0px;
+  background-color: #1a1a2e;
+  color: white;
+  display: flex;
+  justify-content: center;
+  font-family: helvetica;
+}

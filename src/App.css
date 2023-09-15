@@ -1,0 +1,23 @@
+.main-box{
+  text-align: center;
+}
+
+.main-button{
+  width: 250px;
+  height: 50px;
+  border-radius: 15px;
+  background-color: #33425a;
+  color: #fff;
+  border: #33425a;
+  cursor: pointer;
+  transition: 0.3s;
+}
+.main-button:hover{
+  background-color: #111120;
+  cursor: pointer;
+}
+
+.imgCat{
+  border-radius: 20px;
+  width: 80%;
+}
